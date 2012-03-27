@@ -1,4 +1,4 @@
-# revision 24739
+# revision 25631
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-genericextra
 Epoch:		1
-Version:	20120224
+Version:	20120327
 Release:	1
 Summary:	Extra generic packages
 Group:		Publishing
@@ -39,7 +39,6 @@ Requires:	texlive-lecturer
 Requires:	texlive-librarian
 Requires:	texlive-mathdots
 Requires:	texlive-metatex
-Requires:	texlive-mftoeps
 Requires:	texlive-midnight
 Requires:	texlive-multi
 Requires:	texlive-navigator
