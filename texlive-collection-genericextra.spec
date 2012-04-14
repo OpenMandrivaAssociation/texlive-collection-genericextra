@@ -1,4 +1,4 @@
-# revision 25631
+# revision 25779
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-genericextra
 Epoch:		1
-Version:	20120327
+Version:	20120413
 Release:	1
 Summary:	Extra generic packages
 Group:		Publishing
@@ -19,6 +19,7 @@ Requires(pre):	texlive-tlpkg
 Requires:	texlive-abbr
 Requires:	texlive-abstyles
 Requires:	texlive-barr
+Requires:	texlive-bitelist
 Requires:	texlive-borceux
 Requires:	texlive-c-pascal
 Requires:	texlive-chronosys
