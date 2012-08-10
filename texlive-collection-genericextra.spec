@@ -1,4 +1,4 @@
-# revision 25779
+# revision 26292
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-genericextra
 Epoch:		1
-Version:	20120413
+Version:	20120810
 Release:	1
 Summary:	Extra generic packages
 Group:		Publishing
@@ -26,6 +26,7 @@ Requires:	texlive-chronosys
 Requires:	texlive-colorsep
 Requires:	texlive-dinat
 Requires:	texlive-dirtree
+Requires:	texlive-dowith
 Requires:	texlive-eijkhout
 Requires:	texlive-encxvlna
 Requires:	texlive-epigram
