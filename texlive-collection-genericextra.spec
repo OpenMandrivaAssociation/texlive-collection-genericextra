@@ -1,4 +1,4 @@
-# revision 26292
+# revision 27765
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-genericextra
 Epoch:		1
-Version:	20120810
+Version:	20121030
 Release:	1
 Summary:	Extra generic packages
 Group:		Publishing
@@ -22,6 +22,7 @@ Requires:	texlive-barr
 Requires:	texlive-bitelist
 Requires:	texlive-borceux
 Requires:	texlive-c-pascal
+Requires:	texlive-catcodes
 Requires:	texlive-chronosys
 Requires:	texlive-colorsep
 Requires:	texlive-dinat
@@ -37,6 +38,7 @@ Requires:	texlive-gates
 Requires:	texlive-ifetex
 Requires:	texlive-iftex
 Requires:	texlive-insbox
+Requires:	texlive-langcode
 Requires:	texlive-lecturer
 Requires:	texlive-librarian
 Requires:	texlive-mathdots
@@ -46,6 +48,7 @@ Requires:	texlive-multi
 Requires:	texlive-navigator
 Requires:	texlive-ofs
 Requires:	texlive-pdf-trans
+Requires:	texlive-plainpkg
 Requires:	texlive-shade
 Requires:	texlive-systeme
 Requires:	texlive-tabto-generic
