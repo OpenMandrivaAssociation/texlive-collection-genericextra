@@ -1,4 +1,4 @@
-# revision 27765
+# revision 26292
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-genericextra
 Epoch:		1
-Version:	20121030
+Version:	20120810
 Release:	1
 Summary:	Extra generic packages
 Group:		Publishing
@@ -22,7 +22,6 @@ Requires:	texlive-barr
 Requires:	texlive-bitelist
 Requires:	texlive-borceux
 Requires:	texlive-c-pascal
-Requires:	texlive-catcodes
 Requires:	texlive-chronosys
 Requires:	texlive-colorsep
 Requires:	texlive-dinat
@@ -38,7 +37,6 @@ Requires:	texlive-gates
 Requires:	texlive-ifetex
 Requires:	texlive-iftex
 Requires:	texlive-insbox
-Requires:	texlive-langcode
 Requires:	texlive-lecturer
 Requires:	texlive-librarian
 Requires:	texlive-mathdots
@@ -48,7 +46,6 @@ Requires:	texlive-multi
 Requires:	texlive-navigator
 Requires:	texlive-ofs
 Requires:	texlive-pdf-trans
-Requires:	texlive-plainpkg
 Requires:	texlive-shade
 Requires:	texlive-systeme
 Requires:	texlive-tabto-generic
@@ -72,3 +69,24 @@ TeX and LaTeX.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813910
+- Update to latest release.
+
+* Sat Apr 14 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120413-1
++ Revision: 790847
+- Update to latest release.
+
+* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120327-1
++ Revision: 787860
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780325
+- Update to latest release.
+- Import texlive-collection-genericextra
+- Import texlive-collection-genericextra
+
