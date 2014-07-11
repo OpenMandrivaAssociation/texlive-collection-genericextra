@@ -7,7 +7,7 @@
 Name:		texlive-collection-genericextra
 Epoch:		1
 Version:	20140621
-Release:	1
+Release:	2
 Summary:	Generic additional packages
 Group:		Publishing
 URL:		http://tug.org/texlive
