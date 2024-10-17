@@ -10,7 +10,7 @@ Version:	20140621
 Release:	6
 Summary:	Generic additional packages
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-genericextra.tar.xz
 BuildArch:	noarch
